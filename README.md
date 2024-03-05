@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @awerni
 - 👀 I’m interested in R programming
 - 🌱 I’m currently learning modularize R/shiny apps
+- 📫 I'm attending the MIT Python class MITx 6.00.1x
 - 💞️ I’m looking to collaborate on everything around data science and bioinformatics
 - 📫 You can reach me via http://wernitznig.com
 
